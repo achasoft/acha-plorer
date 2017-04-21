@@ -1,0 +1,287 @@
+.aui-icon {
+    background:transparent url(aui-ico.png) left top no-repeat;
+    display: block;
+    float: left;
+}
+
+.aui-icon.aui-icon-hdd {
+    width: 20px;
+    height: 20px;
+    background-position: -5px -5px;
+}
+
+.aui-icon.aui-icon-add_link {
+    width: 20px;
+    height: 20px;
+    background-position: -35px -5px;
+}
+
+.aui-icon.aui-icon-binders_folder {
+    width: 20px;
+    height: 20px;
+    background-position: -65px -5px;
+}
+
+.aui-icon.aui-icon-chevron_down {
+    width: 13px;
+    height: 13px;
+    background-position: -95px -5px;
+}
+
+.aui-icon.aui-icon-chevron_down_hover {
+    width: 13px;
+    height: 13px;
+    background-position: -118px -5px;
+}
+
+.aui-icon.aui-icon-chevron_left {
+    width: 13px;
+    height: 13px;
+    background-position: -141px -5px;
+}
+
+.aui-icon.aui-icon-chevron_left_hover {
+    width: 13px;
+    height: 13px;
+    background-position: -164px -5px;
+}
+
+.aui-icon.aui-icon-chevron_right {
+    width: 13px;
+    height: 13px;
+    background-position: -187px -5px;
+}
+
+.aui-icon.aui-icon-chevron_right_hover {
+    width: 13px;
+    height: 13px;
+    background-position: -210px -5px;
+}
+
+.aui-icon.aui-icon-chevron_up {
+    width: 13px;
+    height: 13px;
+    background-position: -233px -5px;
+}
+
+.aui-icon.aui-icon-chevron_up_hover {
+    width: 13px;
+    height: 13px;
+    background-position: -256px -5px;
+}
+
+.aui-icon.aui-icon-close_pane_ltr {
+    width: 48px;
+    height: 48px;
+    background-position: -95px -28px;
+}
+
+.aui-icon.aui-icon-close_pane_rtl {
+    width: 48px;
+    height: 48px;
+    background-position: -153px -28px;
+}
+
+.aui-icon.aui-icon-columns {
+    width: 20px;
+    height: 20px;
+    background-position: -211px -28px;
+}
+
+.aui-icon.aui-icon-copy {
+    width: 48px;
+    height: 48px;
+    background-position: -5px -58px;
+}
+
+.aui-icon.aui-icon-cut {
+    width: 48px;
+    height: 48px;
+    background-position: -211px -58px;
+}
+
+.aui-icon.aui-icon-delete {
+    width: 48px;
+    height: 48px;
+    background-position: -5px -116px;
+}
+
+.aui-icon.aui-icon-details_icons {
+    width: 20px;
+    height: 20px;
+    background-position: -241px -28px;
+}
+
+.aui-icon.aui-icon-dossier_folder {
+    width: 20px;
+    height: 20px;
+    background-position: -63px -58px;
+}
+
+.aui-icon.aui-icon-download {
+    width: 48px;
+    height: 48px;
+    background-position: -63px -116px;
+}
+
+.aui-icon.aui-icon-exit {
+    width: 20px;
+    height: 20px;
+    background-position: -121px -116px;
+}
+
+.aui-icon.aui-icon-folder {
+    width: 20px;
+    height: 20px;
+    background-position: -151px -116px;
+}
+
+.aui-icon.aui-icon-invert_selection {
+    width: 20px;
+    height: 20px;
+    background-position: -181px -116px;
+}
+
+.aui-icon.aui-icon-large_icons {
+    width: 20px;
+    height: 20px;
+    background-position: -211px -116px;
+}
+
+.aui-icon.aui-icon-manage_link {
+    width: 20px;
+    height: 20px;
+    background-position: -241px -116px;
+}
+
+.aui-icon.aui-icon-medium_icons {
+    width: 20px;
+    height: 20px;
+    background-position: -121px -146px;
+}
+
+.aui-icon.aui-icon-new-folder {
+    width: 48px;
+    height: 48px;
+    background-position: -151px -146px;
+}
+
+.aui-icon.aui-icon-open {
+    width: 48px;
+    height: 48px;
+    background-position: -209px -146px;
+}
+
+.aui-icon.aui-icon-open_pane_ltr {
+    width: 48px;
+    height: 48px;
+    background-position: -5px -204px;
+}
+
+.aui-icon.aui-icon-open_pane_rtl {
+    width: 48px;
+    height: 48px;
+    background-position: -63px -204px;
+}
+
+.aui-icon.aui-icon-paste {
+    width: 48px;
+    height: 48px;
+    background-position: -121px -204px;
+}
+
+.aui-icon.aui-icon-preview {
+    width: 48px;
+    height: 48px;
+    background-position: -179px -204px;
+}
+
+.aui-icon.aui-icon-refresh {
+    width: 20px;
+    height: 20px;
+    background-position: -237px -204px;
+}
+
+.aui-icon.aui-icon-rename {
+    width: 48px;
+    height: 48px;
+    background-position: -279px -5px;
+}
+
+.aui-icon.aui-icon-search {
+    width: 20px;
+    height: 20px;
+    background-position: -269px -63px;
+}
+
+.aui-icon.aui-icon-select_all {
+    width: 20px;
+    height: 20px;
+    background-position: -299px -63px;
+}
+
+.aui-icon.aui-icon-settings {
+    width: 20px;
+    height: 20px;
+    background-position: -271px -93px;
+}
+
+.aui-icon.aui-icon-settings_2 {
+    width: 20px;
+    height: 20px;
+    background-position: -301px -93px;
+}
+
+.aui-icon.aui-icon-settings_3 {
+    width: 20px;
+    height: 20px;
+    background-position: -271px -123px;
+}
+
+.aui-icon.aui-icon-small_icons {
+    width: 20px;
+    height: 20px;
+    background-position: -301px -123px;
+}
+
+.aui-icon.aui-icon-tiles_icons {
+    width: 20px;
+    height: 20px;
+    background-position: -267px -153px;
+}
+
+.aui-icon.aui-icon-deselect_all {
+    width: 20px;
+    height: 20px;
+    background-position: -297px -153px;
+}
+
+.aui-icon.aui-icon-open_archive {
+    width: 48px;
+    height: 48px;
+    background-position: -267px -183px;
+}
+
+.aui-icon.aui-icon-upload {
+    width: 48px;
+    height: 48px;
+    background-position: -237px -241px;
+}
+
+.aui-icon.aui-icon-xlarge_icons {
+    width: 20px;
+    height: 20px;
+    background-position: -295px -241px;
+}
+
+.aui-icon.aui-icon-file {
+    width: 20px;
+    height: 20px;
+    background-position: -5px -271px;
+}
+
+.aui-icon.aui-icon-archive {
+    width: 48px;
+    height: 48px;
+    background-position: -337px -5px;
+}

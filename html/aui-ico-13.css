@@ -1,0 +1,113 @@
+.aui-icon-20 {
+    background: transparent url('/html/aui-ico-13.png') left top no-repeat;
+    display: inline-block;
+    height: 13px;
+    width: 13px;
+}
+
+.aui-icon-20.aui-icon-hdd {
+    background-position: -5px -5px;
+}
+
+.aui-icon-20.aui-icon-add_link {
+    background-position: -28px -5px;
+}
+
+.aui-icon-20.aui-icon-binders_folder {
+    background-position: -51px -5px;
+}
+
+.aui-icon-20.aui-icon-chevron_down {
+    background-position: -74px -5px;
+}
+
+.aui-icon-20.aui-icon-chevron_left {
+    background-position: -97px -5px;
+}
+
+.aui-icon-20.aui-icon-chevron_right {
+    background-position: -5px -28px;
+}
+
+.aui-icon-20.aui-icon-chevron_up {
+    background-position: -28px -28px;
+}
+
+.aui-icon-20.aui-icon-columns {
+    background-position: -51px -28px;
+}
+
+.aui-icon-20.aui-icon-details_icons {
+    background-position: -74px -28px;
+}
+
+.aui-icon-20.aui-icon-dossier_folder {
+    background-position: -97px -28px;
+}
+
+.aui-icon-20.aui-icon-exit {
+    background-position: -5px -51px;
+}
+
+.aui-icon-20.aui-icon-folder {
+    background-position: -28px -51px;
+}
+
+.aui-icon-20.aui-icon-invert_selection {
+    background-position: -51px -51px;
+}
+
+.aui-icon-20.aui-icon-large_icons {
+    background-position: -74px -51px;
+}
+
+.aui-icon-20.aui-icon-manage_link {
+    background-position: -97px -51px;
+}
+
+.aui-icon-20.aui-icon-medium_icons {
+    background-position: -5px -74px;
+}
+
+.aui-icon-20.aui-icon-refresh {
+    background-position: -28px -74px;
+}
+
+.aui-icon-20.aui-icon-search {
+    background-position: -51px -74px;
+}
+
+.aui-icon-20.aui-icon-select_all {
+    background-position: -74px -74px;
+}
+
+.aui-icon-20.aui-icon-settings {
+    background-position: -97px -74px;
+}
+
+.aui-icon-20.aui-icon-settings_2 {
+    background-position: -5px -97px;
+}
+
+.aui-icon-20.aui-icon-settings_3 {
+    background-position: -28px -97px;
+}
+
+.aui-icon-20.aui-icon-small_icons {
+    background-position: -51px -97px;
+}
+
+.aui-icon-20.aui-icon-tiles_icons {
+    background-position: -74px -97px;
+}
+
+.aui-icon-20.aui-icon-deselect_all {
+    background-position: -97px -97px;
+}
+
+.aui-icon-20.aui-icon-xlarge_icons {
+    background-position: -120px -5px;
+}
+.aui-icon-20.aui-icon-file {
+    background-position: -120px -28px;
+}
